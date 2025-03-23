@@ -14,7 +14,7 @@ import config from '@/config';
 // You are an excellent lawyer.
 
 // I need your help to write a simple privacy policy for my website. Here is some context:
-// - Website: https://shipfa.st
+// - Website: https://basedinbitcoin.com
 // - Name: basedinbitcoin
 // - Description: A JavaScript code boilerplate to help entrepreneurs launch their startups faster
 // - User data collected: name, email and payment information
@@ -61,7 +61,7 @@ const PrivacyPolicy = () => {
           style={{ fontFamily: 'sans-serif' }}>
           {`Last Updated: Mar 6, 2025
 
-Thank you for visiting basedinbitcoin ("we," "us," or "our"). This Privacy Policy outlines how we collect, use, and protect your personal and non-personal information when you use our website located at https://shipfa.st (the "Website").
+Thank you for visiting basedinbitcoin ("we," "us," or "our"). This Privacy Policy outlines how we collect, use, and protect your personal and non-personal information when you use our website located at https://basedinbitcoin.com (the "Website").
 
 By accessing or using the Website, you agree to the terms of this Privacy Policy. If you do not agree with the practices described in this policy, please do not use the Website.
 

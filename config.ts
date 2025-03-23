@@ -10,7 +10,7 @@ const config = {
   appDescription:
     'Compare any asset values directly against Bitcoin’s current market price.',
   // REQUIRED (no https://, not trailing slash at the end, just the naked domain)
-  domainName: 'shipfa.st',
+  domainName: 'basedinbitcoin.com',
   crisp: {
     // Crisp website ID. IF YOU DON'T USE CRISP: just remove this => Then add a support email in this config file (resend.supportEmail) otherwise customer support won't work.
     id: '',
@@ -75,7 +75,7 @@ const config = {
   },
   resend: {
     // REQUIRED — Email 'From' field to be used when sending magic login links
-    fromNoReply: `basedinbitcoin <noreply@resend.shipfa.st>`,
+    fromNoReply: `basedinbitcoin <noreply@resend.basedinbitcoin.com>`,
     // REQUIRED — Email 'From' field to be used when sending other emails, like abandoned carts, updates etc..
     fromAdmin: `Kris at basedinbitcoin <basedinbitcoin@gmail.com>`,
     // Email shown to customer if need support. Leave empty if not needed => if empty, set up Crisp above, otherwise you won't be able to offer customer support."
