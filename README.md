@@ -1,9 +1,9 @@
 <!-- @format -->
 
-# ShipFast — Typescript
+# basedinbitcoin — Typescript
 
-Hey maker 👋 it's Marc from [ShipFast](https://shipfa.st/docs). Let's get your
-startup off the ground, FAST ⚡️
+Hey maker 👋 it's Marc from [basedinbitcoin](https://shipfa.st/docs). Let's get
+your startup off the ground, FAST ⚡️
 
 <sub>**Watch/Star the repo to be notified when updates are pushed**</sub>
 
@@ -22,7 +22,7 @@ startup off the ground, FAST ⚡️
 ## Links
 
 - [📚 Documentation](https://shipfa.st/docs)
-- [📣 Updates](https://shipfast.beehiiv.com/)
+- [📣 Updates](https://basedinbitcoin.beehiiv.com/)
 - [🧑‍💻 Discord](https://shipfa.st/dashboard)
 - [🥇 Leaderboard](https://shipfa.st/leaderboard)
 
@@ -34,12 +34,13 @@ Let's ship it, FAST ⚡️
 
 \_
 
-**📈 Grow your startup with [DataFast](https://datafa.st?ref=shipfast_readme)**
+**📈 Grow your startup with
+[DataFast](https://datafa.st?ref=basedinbitcoin_readme)**
 
 - Analyze your traffic
 - Get insights on your customers
 - Make data-driven decisions
 
-ShipFast members get 30% OFF on all plans! 🎁
+basedinbitcoin members get 30% OFF on all plans! 🎁
 
 ![datafast](https://github.com/user-attachments/assets/2a9710f8-9a39-4593-b4bf-9ee933529870)
