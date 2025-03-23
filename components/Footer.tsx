@@ -15,7 +15,7 @@ const Footer = () => {
         <div className=' flex lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col'>
           <div className='w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left'>
             <Link
-              className='flex items-center gap-2 shrink-0 '
+              className='flex items-center justify-center md:justify-start gap-2 '
               href='/'
               title={`${config.appName} homepage`}>
               <Image
