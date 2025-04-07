@@ -11,6 +11,7 @@ import CTA from '@/components/CTA';
 import Footer from '@/components/Footer';
 import Headline from '@/components/Headline';
 import Copy from '@/components/Copy';
+import Copy2 from '@/components/Copy2';
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <Header />
       </Suspense>
       <main>
+        {/* <Copy2 /> */}
         <Headline />
         <Copy />
       </main>

@@ -51,7 +51,7 @@ const Headline = () => {
       <Image
         src={hero}
         alt='Product Demo'
-        className='w-11/12 md:w-[56%]  rounded-lg shadow-sm'
+        className='w-11/12 md:w-[54%]  rounded-lg shadow-sm'
         priority={true}
         width={500}
         height={500}
